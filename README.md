@@ -1,7 +1,11 @@
 # `Creating is what i like`
 
 Hello world my name is `Elias Jose Lopez Martinez`.
-![Photo](assets/milky-way.jpg) I am 22 years old man that was born in El
+
+<img src="https://cdn.britannica.com/29/148329-050-269A9EFE/night-sky-Milky-Way-Galaxy.jpg" alt="IMAGE
+ALT TEXT HERE" width="900" height="400" border="10" />
+
+I am 22 years old man that was born in El
 Salvador. I like video games, gardening and drawing, i consider myself a very
 positive person, so anytime you feel depressed or sad you can come by and say
 hello. I recently started in hack your future and i would like to learn a lot
@@ -22,8 +26,7 @@ ALT TEXT HERE" width="300" height="200" border="10" />
 
 `Foster the people`
 
-<img src="https://www.billboard.com/wp-content/uploads/media
-/foster-the-people-2018-cr-Neil-Krug-billboard-1548.jpg" alt="IMAGE
+<img src="https://www.billboard.com/wp-content/uploads/media/foster-the-people-2018-cr-Neil-Krug-billboard-1548.jpg" alt="IMAGE
 ALT TEXT HERE" width="300" height="200" border="10" />
 
 ## In terms of games in nintendo switch this is what i like, though i like all type
